@@ -106,13 +106,13 @@ namespace MatMod
                 table = new_table;
                 dataGridView2.RowCount = table.GetLength(0);
                 dataGridView2.ColumnCount = table.GetLength(1);
-                for (int i = 0; i < R; i++)
+            }
+            for (int i = 0; i < R; i++)
+            {
+                for (int j = 0; j < C; j++)
                 {
-                    for (int j = 0; j < C; j++)
-                    {
-                        if (i == R - 1 && j != 0) dataGridView2[j, i].Value = Convert.ToString(table[i, j] * -1);
-                        else dataGridView2[j, i].Value = table[i, j].ToString();
-                    }
+                    if (i == R - 1 && j != 0) dataGridView2[j, i].Value = Convert.ToString(table[i, j] * -1);
+                    else dataGridView2[j, i].Value = table[i, j].ToString();
                 }
             }
         }
