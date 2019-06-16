@@ -54,13 +54,6 @@ namespace MatMod
             for (int i = MainRow + 1; i < R - 1; i++) if ((table[i, MainCol] > 0) && ((table[i, 0] / table[i, MainCol]) < (table[MainRow, 0] / table[MainRow, MainCol]))) MainRow = i;
         }
 
-        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
-        {
-            MainWindow nw = new MainWindow();
-            nw.Show();
-            this.Close();
-        }
-
         private void Form1_FormClosed(object sender, FormClosedEventArgs e)
         {
             MainWindow nw = new MainWindow();

@@ -14,8 +14,6 @@ C:\Users\HecklerK\source\repos\MatMod\MatMod\obj\Debug\MatMod.csproj.CoreCompile
 C:\Users\HecklerK\source\repos\MatMod\MatMod\obj\Debug\MatMod.exe
 C:\Users\HecklerK\source\repos\MatMod\MatMod\obj\Debug\MatMod.pdb
 C:\Users\HecklerK\source\repos\MatMod\MatMod\obj\Debug\MatMod.Form1.resources
-C:\Users\HecklerK\source\repos\MatMod\MatMod\obj\Debug\D.g.cs
-C:\Users\HecklerK\source\repos\MatMod\MatMod\obj\Debug\D.baml
 C:\Users\kbstudentint\Desktop\MatMod\MatMod\bin\Debug\MatMod.exe.config
 C:\Users\kbstudentint\Desktop\MatMod\MatMod\obj\Debug\MatMod.exe
 C:\Users\kbstudentint\Desktop\MatMod\MatMod\obj\Debug\MatMod.pdb
@@ -33,3 +31,4 @@ C:\Users\kbstudentint\Desktop\MatMod\MatMod\obj\Debug\MatMod.g.resources
 C:\Users\kbstudentint\Desktop\MatMod\MatMod\obj\Debug\MatMod.Form1.resources
 C:\Users\kbstudentint\Desktop\MatMod\MatMod\obj\Debug\MatMod.Properties.Resources.resources
 C:\Users\kbstudentint\Desktop\MatMod\MatMod\obj\Debug\MatMod.csproj.GenerateResource.Cache
+C:\Users\HecklerK\source\repos\MatMod\MatMod\obj\Debug\MatMod.Form2.resources

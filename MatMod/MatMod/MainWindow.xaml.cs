@@ -39,7 +39,7 @@ namespace MatMod
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            D nw = new D();
+            Form2 nw = new Form2();
             nw.Show();
             this.Hide();
         }
