@@ -32,3 +32,4 @@ C:\Users\kbstudentint\Desktop\MatMod\MatMod\obj\Debug\MatMod.Form1.resources
 C:\Users\kbstudentint\Desktop\MatMod\MatMod\obj\Debug\MatMod.Properties.Resources.resources
 C:\Users\kbstudentint\Desktop\MatMod\MatMod\obj\Debug\MatMod.csproj.GenerateResource.Cache
 C:\Users\HecklerK\source\repos\MatMod\MatMod\obj\Debug\MatMod.Form2.resources
+C:\Users\HecklerK\source\repos\MatMod\MatMod\obj\Debug\MatMod.Form3.resources

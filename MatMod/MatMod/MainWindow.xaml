@@ -9,7 +9,7 @@
     <Grid>
         <Button Content="Симплекс метод" HorizontalAlignment="Left" Margin="30,10,0,0" VerticalAlignment="Top" Width="160" Click="Button_Click" FontSize="16"/>
         <Button Content="Алгоритм Дейкстры" HorizontalAlignment="Left" Margin="30,50,0,0" VerticalAlignment="Top" Width="160" FontSize="16" Click="Button_Click_1"/>
-        <Button Content="" HorizontalAlignment="Left" Margin="30,90,0,0" VerticalAlignment="Top" Width="160" FontSize="16"/>
+        <Button Content="Методы прогнозов" HorizontalAlignment="Left" Margin="30,90,0,0" VerticalAlignment="Top" Width="160" FontSize="16" Click="Button_Click_2"/>
 
     </Grid>
 </Window>

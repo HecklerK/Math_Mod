@@ -43,5 +43,12 @@ namespace MatMod
             nw.Show();
             this.Hide();
         }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            Form3 nw = new Form3();
+            nw.Show();
+            this.Hide();
+        }
     }
 }
